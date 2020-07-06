@@ -10,6 +10,9 @@ En la **capa 2** se tendrá un dataset donde se irán guardando las recomendacio
 2. Poco útil.
 3. Muy úitl.  
 
+## Temas a consultar  
+1. **Máquinas de Boltzmann**, en el curso de Deep Learning se dijo que servían para RS.   
+
 ## Enlaces  
 1. YouTube API: https://developers.google.com/youtube/v3/docs/search/list  
 
