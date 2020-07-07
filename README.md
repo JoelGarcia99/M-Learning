@@ -7,7 +7,7 @@ En principio lo que se hará primero será poder recomendar videos, basados en l
 
 En la **capa 2** se tendrá un dataset donde se irán guardando las recomendaciones hechas al usuario y la calificación, la cual será en escala del 1 al 3, quedando definidos de la siguiente manera:  
 1. No fue útil.
-2. Poco útil.
+2. útil.
 3. Muy úitl.  
 
 ## Enlaces  
@@ -18,3 +18,9 @@ En la **capa 2** se tendrá un dataset donde se irán guardando las recomendacio
 ## Instalaciones  
 1. Django: `pip install django`  
 2. Django RestFramework: `pip install djangorestframework`  
+
+
+## Comandos  
+1. `manage.py migrate`: Crea la DB e inicializa el proyecto.  
+2. `python manage.py runserver`: Corre el servidor.  
+
